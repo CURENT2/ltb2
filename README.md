@@ -43,10 +43,8 @@ H. Cui, F. Li and K. Tomsovic, "Hybrid Symbolic-Numeric Framework for Power Syst
 ![Lawrence Livermore National Laboratory](https://raw.githubusercontent.com/cuihantao/andes/master/docs/source/images/sponsors/llnl.jpg)
 ![Idaho National Laboratory](https://raw.githubusercontent.com/cuihantao/andes/master/docs/source/images/sponsors/inl.jpg)
 
-# Sponsors and Contributors
+# Sponsors
 This work was supported in part by the Engineering Research Center Program of the National Science Foundation and the Department of Energy under NSF Award Number EEC-1041877 and the CURENT Industry Partnership Program.
-
-Contributors: [Fangxing Li](http://web.eecs.utk.edu/~fli6/), [Hantao Cui](https://github.com/cuihantao), [Qiwei Zhang](https://github.com/qzhang41), [Jinning Wang](https://github.com/jinningwang), [Nicholas West](https://github.com/TheHashTableSlasher)
 
 # License
 LTB is licensed under the [GPL v3 License](./LICENSE).
