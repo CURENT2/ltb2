@@ -1,6 +1,8 @@
-# Large-Scale Testbed
+# Large-scale Testbed
 
-Large-scale Testbed (LTB) is a highly integrated, closed loop platform for power system fast-prototyping. LTB includes independent packages: a) ANDES: power system simulator, b) AMS: pwoer market simulator, c) DiME: distributed messaging environment, d) Vis: visualizer. Towards one-stop solution, LTB packages can be used individually and federatedly. AMS is included in the newly released v2.0.
+The Large-scale Testbed (LTB) is a tightly integrated, closed-loop platform for rapid prototyping of power systems. *ANDES*, *AMS*, *DiME*, and *LTBVis* are four key independent sub packages of LTB that serve as a dynamic simulator, market simulator, distributed messaging environment, and grid visualizer, respectively. Towards a one-stop solution, these LTB packages can serve for both individual and federated use.
+
+AMS is included in the newly released v2.0.
 
 # Why LTB
 
@@ -10,9 +12,9 @@ LTB platform enables power system *dynamic simualiton*, *market simulation*, *ge
 
 *Getting lost in the APIs of simulators?* Easy-to-use ANDES and AMS can be your last stop to prototype new algorithms and models.
 
-*Looking for a geographical visualization?* LTBVis allows geographical visualization with multiple option.
+*Looking for a geographical visualization?* LTBVis allows geographical visualization with multiple options.
 
-*Interested in real-time close-loop simulation?* LTB has integrated simulators and communication environments.
+*Interested in a real-time closed-loop simulation?* LTB has integrated simulators and communication environments.
 
 Video list:
 
