@@ -1,15 +1,15 @@
 # Large-Scale Testbed
 
-Large-Scale Testbed (LTB) is a highly integrated, closed loop platform that enables power system fast-prototyping.
+Large-Scale Testbed (LTB) is a highly integrated, closed loop platform that enables power system fast-prototyping. 
 
-LTB includes four individual packages:
+LTB includes following packages:
 
 - ANDES: power system simulator
 - AMS: pwoer market simulator
 - DiME: Distributed Messaging Environment
 - Vis: Visualizer
 
-Developers:
+Contributors:
 
 [Fangxing Li](http://web.eecs.utk.edu/~fli6/), [Hantao Cui](https://github.com/cuihantao), [Qiwei Zhang](https://github.com/qzhang41), [Jinning Wang](https://github.com/jinningwang), [Nicholas West](https://github.com/TheHashTableSlasher)
 
