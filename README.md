@@ -4,9 +4,9 @@ Large-scale Testbed (LTB) is a highly integrated, closed loop platform for power
 
 # Why LTB
 
-This work enables power system dynamic simualiton, power market simulation, geographical visualization, real-time simualtion, and **dispatch-dynamic co-simulaiton**.
+This platform enables power system dynamic simualiton, power market simulation, geographical visualization, real-time simualtion, and **dispatch-dynamic co-simulaiton**. The Interoperability of ANDES for scheduling through MATPOWER and pandapower secures power dispatch in a dynamic simulation.
 
-Here are some videos that show the magic of LTB:
+Here are some videos that demonstrate the magic of LTB:
 
 [Using ANDES for Damping Control Allocation using Wind Generation](https://www.youtube.com/watch?v=OtCFRHMtdo8)
 
@@ -14,14 +14,16 @@ Here are some videos that show the magic of LTB:
 
 Using AMS for LMP-based cyber attack detection
 
+Using ANDES and AMS for **dispatch-dynamic co-simulaiton**
+
 # LTB structure
 
 LTB includes following packages:
 
 - ANDES: power system simulator
 - AMS: pwoer market simulator
-- DiME: Distributed Messaging Environment
-- Vis: Visualizer
+- DiME: distributed messaging environment
+- Vis: visualizer
 
 Towards one-stop solution, LTB packages can be used individually and federatedly.
 
