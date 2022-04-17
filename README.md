@@ -4,11 +4,11 @@ Large-scale Testbed (LTB) is a highly integrated, closed loop platform for power
 
 # Why LTB
 
-LTB platform enables power system dynamic simualiton, power market simulation, geographical visualization, real-time simualtion, and **dispatch-dynamic co-simulaiton**.
+LTB platform enables power system *dynamic simualiton*, *market simulation*, *geographical visualization*, *real-time simualtion*, and ***dispatch-dynamic co-simulaiton***.
 
 *Getting trouble with dispatch in a dynamic simulation?* The interoperability of ANDES for scheduling supports secured dispatch in a dynamic simulation.
 
-*Getting lost in the API of simulators?* Easy-to-use ANDES and AMS can be your last stop to prototype new algorithms and models.
+*Getting lost in the APIs of simulators?* Easy-to-use ANDES and AMS can be your last stop to prototype new algorithms and models.
 
 *Looking for a geographical visualization?* LTBVis allows geographical visualization with multiple option.
 
