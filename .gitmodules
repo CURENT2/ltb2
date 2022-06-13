@@ -7,6 +7,6 @@
 [submodule "dime2"]
 	path = dime2
 	url = https://github.com/CURENT/dime2.git
-[submodule "ltbvis"]
-	path = ltbvis
-	url = https://github.com/CURENT/ltbvis.git
+[submodule "agvis"]
+	path = agvis
+	url = https://github.com/CURENT/agvis.git
