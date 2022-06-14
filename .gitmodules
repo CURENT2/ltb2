@@ -5,7 +5,7 @@
 	path = ams
 	url = https://github.com/CURENT/ams.git
 [submodule "dime"]
-	path = dime2
+	path = dime
 	url = https://github.com/CURENT/dime.git
 [submodule "agvis"]
 	path = agvis
