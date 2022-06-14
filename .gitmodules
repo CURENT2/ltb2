@@ -4,9 +4,9 @@
 [submodule "ams"]
 	path = ams
 	url = https://github.com/CURENT/ams.git
-[submodule "dime2"]
+[submodule "dime"]
 	path = dime2
-	url = https://github.com/CURENT/dime2.git
+	url = https://github.com/CURENT/dime.git
 [submodule "agvis"]
 	path = agvis
 	url = https://github.com/CURENT/agvis.git
