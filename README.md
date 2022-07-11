@@ -51,7 +51,7 @@ H. Cui, F. Li and K. Tomsovic, "Hybrid Symbolic-Numeric Framework for Power Syst
 
 This work was supported in part by the Engineering Research Center Program of the National Science Foundation and the Department of Energy under NSF Award Number EEC-1041877 and the CURENT Industry Partnership Program.
 
-ANDES is authored by [Hantao Cui](https://github.com/cuihantao), AMS is authored by [Qiwei Zhang](https://github.com/qzhang41), DiME and LIBVis are authored by [Nicholas West](https://github.com/TheHashTableSlasher) and [Nicholas Parsly](https://github.com/nparsly).
+ANDES is authored by [Hantao Cui](https://github.com/cuihantao), AMS is authored by [Qiwei Zhang](https://github.com/qzhang41), DiME and AGVis are developed and maintained by [Nicholas West](https://github.com/TheHashTableSlasher) and [Nicholas Parsly](https://github.com/nparsly).
 
 # License
 
