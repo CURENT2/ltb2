@@ -1,4 +1,13 @@
-# Large-scale Testbed
+![alt text](images/logo/CURENT_Logo_FullOnWhite.png)
+
+![alt text](images/logo/LTB.svg)
+
+![alt text](images/logo/LTB_ANDES_horizontal.svg)
+![alt text](images/logo/LTB_AMS_horizontal.svg)
+![alt text](images/logo/LTB_AGVis_horizontal.svg)
+![alt text](images/logo/LTB_DiME_horizontal.svg)
+
+# CURENT Large-scale Testbed
 
 The Large-scale Testbed (LTB) is a tightly integrated, closed-loop platform for rapid prototyping of power systems. **[ANDES](https://docs.andes.app/en/stable/index.html)**, **[AMS](https://github.com/CURENT/ams)**, **[DiME](https://ltbdime.readthedocs.io/en/latest/)**, and **[AGVis](https://agvis.readthedocs.io/en/latest/#what-is-agvis)** are four major independent sub packages of LTB that serve as a dynamic simulator, market simulator, distributed messaging environment, and grid visualizer, respectively. Towards a one-stop solution, these LTB packages can serve for both individual and federated use.
 
